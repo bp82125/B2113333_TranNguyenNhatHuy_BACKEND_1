@@ -9,7 +9,7 @@ This repository contains the Backend 1 implementation for a Contact Book app, cr
 - RESTful API for managing contacts  
 
 ## Assignment Reference  
-The details of the assignment can be found in the accompanying PDF file: `CT449_Backend1_Assignment.pdf`.  
+The details of the assignment can be found in [CT449_Backend1_Assignment.pdf](./CT449_Backend1_Assignment.pdf)  
 
 ## License  
 This project is for academic purposes and is not licensed for commercial use.
